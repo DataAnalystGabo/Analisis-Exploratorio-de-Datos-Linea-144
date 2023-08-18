@@ -3,31 +3,29 @@
 Mi nombre es Gonzalo Ramirez, soy estudiante de la Licenciatura en Ciencias de Datos y trabajo como analista de datos en el Ministerio de Espacio Público e Higiene Urbana de la Ciudad Autónoma de Buenos Aires. 
 Este proyecto que verás a continuación, surge de la necesidad de crear un portfolio que refleje mis intereses y mi estilo de trabajo.
 
+-----------------------------------------------------
 
-# Tópico
+# Guía
 
 Para este primer proyecto he decidido analizar la base de datos de la línea 144 extraída del sitio web oficial del [Ministerio de las Mujeres, Géneros y Diversidad de la Nación - Dirección Técnica de Registros y Bases de Datos.](https://www.datos.gob.ar/dataset/generos-base-datos-linea-144)
 
-## Lenguaje
+Dentro de este repositorio encontrarás dos carpetas: Dataframes y Notebooks. En la primera estarán los archivos .csv que he utilizado para el análisis mientras que en la segunda encontrarás el archivo **analisis.ipynb** que contiene el código python que he escrito.
 
-El lenguaje de programación que utilizaré para este reporte será **Python**.
+-----------------------------------------------------
 
-## IDE
+## Stack de herramientas y lenguaje de programación
 
-**Jupyter Lab** será mi entorno de desarrollo.
-
-## Librerías
-
-Las librerías a utilizar tanto para la manipulación de los datos como para la visualización serán:
+Para este análisis utilizaré **Python** como lenguaje de programación en el entorno de desarollo JupyterLab.
+Las librerías importadas tanto para la manipulación de los datos como para su visualización son:
 - Pandas
 - Numpy
--  Matplotlib
--  Seaborn 
+- Matplotlib
+- Seaborn 
 - Plotly
--  Squarify
+- Squarify
 - Joypy
 
+Y como herramienta de control de versiones utilizaré **Git** & **Github**.
 
-## Herramientas de control de versión
-
-Para realizar el control de mis versiones utilizaré **Git** & **GitHub**.
+-----------------------------------------------------
+Cualquier duda o comentario que desees hacerme podes hacerlo escribiendome a gonzalogabrielramirez@buenosaires.gob.ar
