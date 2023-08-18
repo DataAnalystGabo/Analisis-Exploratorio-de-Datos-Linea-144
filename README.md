@@ -3,7 +3,6 @@
 Mi nombre es Gonzalo Ramirez, soy estudiante de la Licenciatura en Ciencias de Datos y trabajo como analista de datos en el Ministerio de Espacio Público e Higiene Urbana de la Ciudad Autónoma de Buenos Aires. 
 Este proyecto que verás a continuación, surge de la necesidad de crear un portfolio que refleje mis intereses y mi estilo de trabajo.
 
------------------------------------------------------
 
 # Guía
 
@@ -11,7 +10,6 @@ Para este primer proyecto he decidido analizar la base de datos de la línea 144
 
 Dentro de este repositorio encontrarás dos carpetas: Dataframes y Notebooks. En la primera estarán los archivos .csv que he utilizado para el análisis mientras que en la segunda encontrarás el archivo **analisis.ipynb** que contiene el código python que he escrito.
 
------------------------------------------------------
 
 ## Stack de herramientas y lenguaje de programación
 
