@@ -13,17 +13,14 @@ Dentro de este repositorio encontrarás dos carpetas: Dataframes y Notebooks. En
 
 ## Stack de herramientas y lenguaje de programación
 
-Para este análisis utilizaré **Python** como lenguaje de programación en el entorno de desarollo JupyterLab.
+Para este análisis utilizé **Python** como lenguaje de programación en el entorno de desarollo JupyterLab.
 Las librerías importadas tanto para la manipulación de los datos como para su visualización son:
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn 
-- Plotly
-- Squarify
-- Joypy
 
-Y como herramienta de control de versiones utilizaré **Git** & **Github**.
+Y como herramienta de control de versiones me basé en **Git** & **Github**.
 
 -----------------------------------------------------
-Cualquier duda o comentario que desees hacerme podes hacerlo escribiendome a gonzalogabrielramirez@buenosaires.gob.ar
+Cualquier duda o comentario que desees hacerme podes hacerlo escribiendome a gonzalogabrielramirez@outlook.com.ar
